@@ -1,9 +1,9 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+                    ĜENERALA PUBLIKA LICENCO DE GNU
+                       Versio 3, 29 Junio 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ Kopirajto (C) 2007 Libera Programaro Fondaĵo, Enk. <https://fsf.org/>
+ Ĉiuj rajtas kopii kaj distribui laŭvorte kopiojn
+ de ĉi tiu licenca dokumento, sed ŝanĝi ĝin ne estas permesita.
 
                             Preamble
 
