@@ -37,9 +37,9 @@ liberecojn, kiujn vi ricevis. Vi devas certigi, ke ili ankaŭ ricevas
 aŭ povas akiri la fontkodon. Vi ankaŭ devas konsciigi ilin pri ĉi tiuj terminoj, por ke ili
 sciu siajn rajtojn.
 
-  Developers that use the GNU GPL protect your rights with two steps:
-(1) assert copyright on the software, and (2) offer you this License
-giving you legal permission to copy, distribute and/or modify it.
+  Programistoj, kiuj uzas GNU GPL, protektas viajn rajtojn per du mezuroj:
+(1) aserti kopirajton pri la programaro, kaj (2) oferti al vi ĉi tiun Licencon
+donante al vi laŭleĝan permeson kopii, distribui kaj/aŭ modifi ĝin.
 
   For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and
