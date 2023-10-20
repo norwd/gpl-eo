@@ -41,11 +41,11 @@ sciu siajn rajtojn.
 (1) aserti kopirajton pri la programaro, kaj (2) oferti al vi ĉi tiun Licencon
 donante al vi laŭleĝan permeson kopii, distribui kaj/aŭ modifi ĝin.
 
-  For the developers' and authors' protection, the GPL clearly explains
-that there is no warranty for this free software.  For both users' and
-authors' sake, the GPL requires that modified versions be marked as
-changed, so that their problems will not be attributed erroneously to
-authors of previous versions.
+  Por la protekto de programistoj kaj aŭtoroj, la GPL klare klarigas
+ke ne eksistas garantio por ĉi tiu libera programaro. En la intereso de
+kaj uzantoj kaj aŭtoroj, la GPL postulas ke modifitaj versioj estu markitaj kiel
+ŝanĝitaj, tiel ke siaj problemoj ne estos erare atribuitaj al
+aŭtoroj de antaŭaj versioj.
 
   Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
