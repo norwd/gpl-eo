@@ -65,10 +65,10 @@ eviti la specialan danĝeron, kiun patentoj aplikitaj al libera programo povus
 fari ĝin efike proprieta. Por malhelpi tion, la GPL certigas, ke
 patentoj ne povas esti uzataj por fari la programon nelibera.
 
-  The precise terms and conditions for copying, distribution and
-modification follow.
+  La precizaj terminoj kaj kondiĉoj por kopiado, distribuo kaj
+modifo sekvas.
 
-                       TERMS AND CONDITIONS
+                       TERMINOJ KAJ KONDIĈOJ
 
   0. Definitions.
 
