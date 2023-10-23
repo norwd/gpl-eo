@@ -70,44 +70,44 @@ modifo sekvas.
 
                        TERMINOJ KAJ KONDIĈOJ
 
-  0. Definitions.
+  0. Difinoj.
 
-  "This License" refers to version 3 of the GNU General Public License.
+  "Ĉi tiu Licenco" rilatas al versio 3 de la Ĝenerala Publika Licenco de GNU.
 
-  "Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.
+  "Kopirajto" ankaŭ signifas kopirajtajn leĝojn kiuj validas por aliaj specoj de
+verkoj, kiel semikonduktaĵmaskoj.
 
-  "The Program" refers to any copyrightable work licensed under this
-License.  Each licensee is addressed as "you".  "Licensees" and
-"recipients" may be individuals or organizations.
+  "La Programo" rilatas al iu ajn kopirajtebla verko licencita sub ĉi tio
+Licenco. Ĉiu licencito estas adresita kiel "vi". "Licencitoj" kaj
+"ricevantoj" povas esti individuoj aŭ organizoj.
 
-  To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
-exact copy.  The resulting work is called a "modified version" of the
-earlier work or a work "based on" the earlier work.
+  "Modifi" verkon signifas kopii aŭ adapti la tutan aŭ parton de la verko
+en maniero postulanta kopirajtopermeson, krom la farado de an
+ĝusta kopio. La rezulta verko nomiĝas "modifita versio" de la
+pli frua verko aŭ verko "bazita sur" la pli frua verko.
 
-  A "covered work" means either the unmodified Program or a work based
-on the Program.
+  "kovrita verko" signifas aŭ la nemodifitan Programon aŭ verkon bazitan
+sur la Programo.
 
-  To "propagate" a work means to do anything with it that, without
-permission, would make you directly or secondarily liable for
-infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy.  Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
+  "Disvastigi" verkon signifas fari ion ajn per ĝi ke, sen
+permeso, igus vin rekte aŭ sekundare respondeca pri
+malobservo laŭ aplikebla kopirajtleĝo, krom ekzekuti ĝin sur a
+komputilo aŭ modifi privatan kopion. Disvastigo inkluzivas kopiadon,
+distribuo (kun aŭ sen modifo), disponigante al la
+publika, kaj en kelkaj landoj ankaŭ aliaj agadoj.
 
-  To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
+  "Transdoni" verkon signifas iun specon de disvastigo kiu ebligas alian
+partioj fari aŭ ricevi kopiojn. Nur interago kun uzanto tra
+komputila reto, sen transdono de kopio, ne estas transdona.
 
-  An interactive user interface displays "Appropriate Legal Notices"
-to the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
-tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may convey the
-work under this License, and how to view a copy of this License.  If
-the interface presents a list of user commands or options, such as a
-menu, a prominent item in the list meets this criterion.
+  Interaga uzantinterfaco montras "Taŭgajn Laŭleĝajn Avizojn"
+tiomgrade ke ĝi inkluzivas oportunan kaj elstare videblan
+funkcion kiu (1) montras taŭgan kopirajtan avizon, kaj (2)
+diras al la uzanto ke ne ekzistas garantio por la verko (krom al la
+mezuro ke garantioj estas provizitaj), ke licencitoj povas transdoni la
+verkon sub ĉi tiu Licenco, kaj kiel vidi kopion de ĉi tiu Licenco. Se
+la interfaco prezentas liston de uzantkomandoj aŭ opcioj, kiel menuo,
+elstara ero en la listo plenumas ĉi tiun kriterion.
 
   1. Source Code.
 
