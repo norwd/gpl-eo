@@ -58,12 +58,12 @@ produktoj. Se tiaj problemoj aperos sufiĉe en aliaj areoj, ni
 estas preta etendi ĉi tiun provizon al tiuj areoj en estontaj versioj
 de la GPL, laŭbezone por protekti la liberecon de uzantoj.
 
-  Finally, every program is threatened constantly by software patents.
-States should not allow patents to restrict development and use of
-software on general-purpose computers, but in those that do, we wish to
-avoid the special danger that patents applied to a free program could
-make it effectively proprietary.  To prevent this, the GPL assures that
-patents cannot be used to render the program non-free.
+  Fine, ĉiu programo estas konstante minacata de programaraj patentoj.
+Ŝtatoj ne devus permesi patentojn limigi evoluon kaj uzon de
+programaro en ĝeneraluzeblaj komputiloj, tamen, en tiuj ŝtatoj kiuj faras, ni deziras
+eviti la specialan danĝeron, kiun patentoj aplikitaj al libera programo povus
+fari ĝin efike proprieta. Por malhelpi tion, la GPL certigas, ke
+patentoj ne povas esti uzataj por fari la programon nelibera.
 
   The precise terms and conditions for copying, distribution and
 modification follow.
