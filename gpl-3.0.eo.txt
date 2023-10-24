@@ -109,47 +109,47 @@ verkon sub ĉi tiu Licenco, kaj kiel vidi kopion de ĉi tiu Licenco. Se
 la interfaco prezentas liston de uzantkomandoj aŭ opcioj, kiel menuo,
 elstara ero en la listo plenumas ĉi tiun kriterion.
 
-  1. Source Code.
+  1. Fontkodo.
 
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
-form of a work.
+  La "Fontkodo" por verko signifas la preferatan formon de la verko
+por fari modifojn al ĝi. "Celkodo" signifas ajnan nefonton
+formo de verko.
 
-  A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.
+  "Norma Interfaco" signifas interfacon kiu aŭ estas oficiala
+normo difinita de agnoskita normiga korpo, aŭ, en la kazo de
+interfacoj specifitaj por aparta programlingvo, tiu
+estas vaste uzata inter programistoj laborantaj en tiu lingvo.
 
-  The "System Libraries" of an executable work include anything, other
-than the work as a whole, that (a) is included in the normal form of
-packaging a Major Component, but which is not part of that Major
-Component, and (b) serves only to enable use of the work with that
-Major Component, or to implement a Standard Interface for which an
-implementation is available to the public in source code form.  A
-"Major Component", in this context, means a major essential component
-(kernel, window system, and so on) of the specific operating system
-(if any) on which the executable work runs, or a compiler used to
-produce the work, or an object code interpreter used to run it.
+  La "Sistemaj Bibliotekoj" de plenumebla verko inkluzivas ion ajn, alian
+ol la verko entute, ke (a) estas inkluzivita en la normala formo de
+pakado de Grava Komponanto, sed kiu ne estas parto de tiu Grava
+Komponanto, kaj (b) servas nur por ebligi uzadon de la verko kun tio
+Grava Komponanto, aŭ por realigi Norman Interfacon por kiu
+realigo estas havebla al publiko en fontkoda formo.
+"Grava Komponanto", en ĉi tiu kunteksto, signifas gravan esencan komponenton
+(kerno, fenestrosistemo, ktp) de la specifa operaciumo
+(se ekzistas) sur kiu la rulebla verko funkcias, aŭ kompililo kutimis
+produkti la verkon, aŭ celkodo interpretilo uzata por ruli ĝin.
 
-  The "Corresponding Source" for a work in object code form means all
-the source code needed to generate, install, and (for an executable
-work) run the object code and to modify the work, including scripts to
-control those activities.  However, it does not include the work's
-System Libraries, or general-purpose tools or generally available free
-programs which are used unmodified in performing those activities but
-which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
+  La "Koresponda Fonto" por verko en celkoda formo signifas ĉion
+la fontkodo bezonata por generi, instali kaj (por plenumebla
+verko) rulu la celkodo kaj modifi la verkon, inkluzive de skriptoj al
+kontroli tiujn agadojn. Tamen, ĝi ne inkluzivas la Sistemajn Bibliotekojn
+de la verko, aŭ ĝeneraluzeblajn ilojn aŭ ĝenerale disponeblajn liberajn
+programojn, kiuj estas uzataj nemodifitaj por plenumi tiujn agadojn, sed
+kiuj ne estas parto de la verko. Ekzemple, Koresponda Fonto
+inkluzivas interfaco difindosierojn asociitaj kun fontdosieroj por
+la verko, kaj la fontkodo por komunaj bibliotekoj kaj dinamike
+bindeblaj subprogramoj kiujn la verko estas specife desegnita por postuli,
+kiel ekzemple per intima datenkomunikado aŭ kontrolfluo inter tiuj
+subprogramoj kaj aliaj partoj de la verko.
 
-  The Corresponding Source need not include anything that users
-can regenerate automatically from other parts of the Corresponding
-Source.
+  La Koresponda Fonto ne bezonas inkluzivi ion ajn, kion uzantoj
+povas regeneriĝi aŭtomate de aliaj partoj de la Koresponda
+Fonto.
 
-  The Corresponding Source for a work in source code form is that
-same work.
+  La Koresponda Fonto por verko en fontkoda formo estas tiu
+sama verko.
 
   2. Basic Permissions.
 
