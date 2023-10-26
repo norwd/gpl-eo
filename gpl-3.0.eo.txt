@@ -151,30 +151,30 @@ Fonto.
   La Koresponda Fonto por verko en fontkoda formo estas tiu
 sama verko.
 
-  2. Basic Permissions.
+  2. Bazaj Permesoj.
 
-  All rights granted under this License are granted for the term of
-copyright on the Program, and are irrevocable provided the stated
-conditions are met.  This License explicitly affirms your unlimited
-permission to run the unmodified Program.  The output from running a
-covered work is covered by this License only if the output, given its
-content, constitutes a covered work.  This License acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
+  Ĉiuj rajtoj konceditaj sub ĉi tiu Licenco estas konceditaj por la daŭro de
+kopirajto de la Programo, kaj estas nerevokeblaj kondiĉe ke la deklaritaj
+kondiĉoj estas plenumitaj. Ĉi tiu Licenco eksplicite asertas vian senliman
+permeson ruli la nemodifitan Programon. La eligo de plenumado de
+kovrita verko estas kovrita de ĉi tiu Licenco nur se la eligo, konsiderante sia
+enhavo, konsistigas kovritan verkon. Ĉi tiu Licenco agnoskas viajn
+rajtojn de justa uzo aŭ alia ekvivalento, kiel disponigite per kopirajtleĝo.
 
-  You may make, run and propagate covered works that you do not
-convey, without conditions so long as your license otherwise remains
-in force.  You may convey covered works to others for the sole purpose
-of having them make modifications exclusively for you, or provide you
-with facilities for running those works, provided that you comply with
-the terms of this License in conveying all material for which you do
-not control copyright.  Those thus making or running the covered works
-for you must do so exclusively on your behalf, under your direction
-and control, on terms that prohibit them from making any copies of
-your copyrighted material outside their relationship with you.
+  Vi povas fari, ruli kaj disvastigi kovritajn verkojn, kiujn vi ne
+faras transdoni, sen kondiĉoj tiel longe kiel via licenco alie restas
+en forto. Vi povas transdoni kopritajn verkojn al aliaj por la sola celo,
+ke ili faru modifojn ekskluzive por vi, aŭ provizi al vi
+faciligoj por ruli tiujn verkojn, kondiĉe ke vi plenumas
+la kondiĉojn de ĉi tiu Licenco en la transdono de ĉiuj materialoj, por kiuj vi
+ne kontrolas kopirajton. Tiuj, kiuj kreantas aŭ rulas la kovritajn verkojn
+por vi, devas fari tion ekskluzive en via nomo, sub via direkto
+kaj kontrolo, laŭ kondiĉoj kiuj malpermesas al ili krei iujn ajn kopiojn de
+via kopirajtigita materialo ekster sia rilato kun vi.
 
-  Conveying under any other circumstances is permitted solely under
-the conditions stated below.  Sublicensing is not allowed; section 10
-makes it unnecessary.
+  Transdono sub iuj aliaj cirkonstancoj estas permesita nur sub
+la kondiĉoj deklaritaj sube. Sublicencado ne estas permesita; sekcio 10
+faras ĝin nenecesa.
 
   3. Protecting Users' Legal Rights From Anti-Circumvention Law.
 
