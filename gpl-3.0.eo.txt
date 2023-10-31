@@ -176,21 +176,21 @@ via kopirajtigita materialo ekster sia rilato kun vi.
 la kondiĉoj deklaritaj sube. Sublicencado ne estas permesita; sekcio 10
 faras ĝin nenecesa.
 
-  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+  3. Protektante Juĝajn Rajtojn de Uzantoj De Kontraŭ-Elturniĝo Leĝo.
 
-  No covered work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.
+  Neniu kovrita verko devos esti konsiderata parto de efika teknologia
+iniciato laŭ iu ajn aplikebla leĝo plenumanta devojn laŭ artikolo
+11 de la WIPO kopirajttraktato adoptita la 20an de decembro 1996, aŭ
+similaj leĝoj malpermesantaj aŭ limigantaj elturniĝon de tiaj
+iniciatoj.
 
-  When you convey a covered work, you waive any legal power to forbid
-circumvention of technological measures to the extent such circumvention
-is effected by exercising rights under this License with respect to
-the covered work, and you disclaim any intention to limit operation or
-modification of the work as a means of enforcing, against the work's
-users, your or third parties' legal rights to forbid circumvention of
-technological measures.
+  Kiam vi transdonas kovritan verkon, vi rezignas pri ajna leĝan povon malpermesi
+elturniĝo de teknologiaj iniciatoj laŭ la amplekso tia elturniĝo
+efektiviĝas per ekzercado de rajtoj sub ĉi tiu Licenco rilate al
+la kovrita verko, kaj vi rifuzas ajnan intencon limigi funkciadon aŭ
+modifon de la verko kiel rimedo por devigi, kontraŭ aŭ la uzantoj
+de la verko aŭ viaj leĝaj rajtoj malpermesi elturniĝon
+de teknologiajn iniciatojn aŭ la samaj rajtoj de triaj partioj.
 
   4. Conveying Verbatim Copies.
 
