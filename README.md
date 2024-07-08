@@ -1,3 +1,12 @@
+
+> [!NOTE]
+> 
+> This is deprecated, I'll continue the translation efforts in a different repo with more licenses all together.
+>
+> ---
+>
+> Ĉi tio estas malrekomendita, mi provos daŭrigi la tradukan penon en alia deponejo kun pli da licencoj ĉiuj kune.
+
 # Ĝenerala Publika Licenco
 
 This is an unofficial translation of the GNU General Public License into Esperanto.
